@@ -63,7 +63,7 @@ while (balls.length < 25) {
     random(0 + size,height - size),
     random(-7,7),
     random(-7,7),
-    'rgb(' + random(1,825) + ',' + random(1,285) + ',' + random(1,259) +')',
+    'rgb(' + random(1,250) + ',' + random(1,250) + ',' + random(1,250) +')',
     size
   );
 
